@@ -29,8 +29,5 @@ ___
 - [Smart Transaction Analyzer](https://github.com/Katrusevich/smart-transaction-analyzer) — AI-powered tool for transaction categorization and anomaly detection, developed as a solution for a Monobank internship application. Focused on data analysis, pattern detection, and real-world financial use cases.
 - [Snakiez-Game](https://github.com/Katrusevich/Snakiez-Game) — Custom-designed arcade game with single-player and two-player modes, built in Java using OOP principles and game loop architecture.
 - [Minesweeper Game](https://github.com/ArtemParadise/CS-33-minesweeper-game/tree/master/Kasianova-Kate) — Fully functional implementation of classic Minesweeper with custom state management and modern UI, built with React.
-___
-### 📞Contact info
-* [Profile in Linkedin](https://www.linkedin.com/in/kate-kasianova-54baba2b5/)
-* __email__: katie.melbis@gmail.com
+- [Kronos Gesture Lab](https://github.com/Katrusevich/Kronos-Gesture-Lab) — Computer vision–based interactive game suite with real-time hand gesture recognition via webcam, developed for the Karazin 2077 technical quest. Focused on gesture-based interaction, motion analysis, and experimental human–computer interfaces using OpenCV and MediaPipe.
 
