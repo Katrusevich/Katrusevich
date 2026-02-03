@@ -31,6 +31,6 @@ ___
 - [Minesweeper Game](https://github.com/ArtemParadise/CS-33-minesweeper-game/tree/master/Kasianova-Kate) — Fully functional implementation of classic Minesweeper with custom state management and modern UI, built with React.
 ___
 ### 📞Contact info
-* [Profile in Linkedin](linkedin.com/in/kate-kasianova-54baba2b5)
+* [Profile in Linkedin](https://www.linkedin.com/in/kate-kasianova-54baba2b5/)
 * __email__: katie.melbis@gmail.com
 
